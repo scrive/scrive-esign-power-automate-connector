@@ -1,0 +1,9 @@
+{
+  "connectorId": "shared_scrive-20esign-20-2d-201-5f59b6c3d3fbcf70cd-5f62becdb683a28ee4",
+  "environment": "Default-0177f0b8-0a35-4d3c-bfa4-0b9bc7d2f668",
+  "apiProperties": "apiProperties.json",
+  "apiDefinition": "apiDefinition.swagger.json",
+  "icon": "icon.png",
+  "powerAppsUrl": "https://api.powerapps.com",
+  "powerAppsApiVersion": "2016-11-01"
+}
